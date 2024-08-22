@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>Sean Glenn B. Magcalas</title>
+        <title>Sean Glenn Magcalas</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, My Name is Sean Glenn B. Magcalas, I am an 3rd year IT student</p>
+        <p>Hello, My Name is Sean Glenn Magcalas, I am an 3rd year IT student</p>
 
       <hr></hr>
 
