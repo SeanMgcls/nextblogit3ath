@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Sean Glenn Magcalas</title>
       </Head>
+        <hr></hr>
       <section className={utilStyles.headingMd}>
         <p>Hello, My Name is Sean Glenn Magcalas, I am an 3rd year IT student</p>
 
