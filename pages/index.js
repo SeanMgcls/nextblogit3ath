@@ -44,6 +44,8 @@ export default function Home() {
 
 <p>I really want to tackle main back-end programming languages such as JavaScript, Node.js and if possible the new languages like Golang.
 </p>
+
+<hr></hr>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
